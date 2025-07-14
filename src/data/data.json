@@ -1,0 +1,96 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "123456789",
+      "company": "Acme Inc",
+      "tags": ["vip", "active"]
+    },
+    {
+      "id": "2",
+      "name": "Sarah Khan",
+      "email": "sarahk@example.com",
+      "phone": "987654321",
+      "company": "InnoTech",
+      "tags": ["trial"]
+    },
+    {
+      "id": "3",
+      "name": "Ali Raza",
+      "email": "ali.raza@example.com",
+      "phone": "03214567890",
+      "company": "PakSoft",
+      "tags": ["active"]
+    },
+    {
+      "id": "4",
+      "name": "Emma Watson",
+      "email": "emma@example.com",
+      "phone": "05123456789",
+      "company": "SmartLabs",
+      "tags": ["vip", "inactive"]
+    },
+    {
+      "id": "5",
+      "name": "Ahmed Khan",
+      "email": "ahmed@example.com",
+      "phone": "03451234567",
+      "company": "CodeNest",
+      "tags": ["active"]
+    },
+    {
+      "id": "6",
+      "name": "Lisa Brown",
+      "email": "lisa.b@example.com",
+      "phone": "03001234567",
+      "company": "Bluewave",
+      "tags": ["inactive"]
+    },
+    {
+      "id": "7",
+      "name": "Umer Tariq",
+      "email": "umer@example.com",
+      "phone": "03331234567",
+      "company": "DigitAll",
+      "tags": ["trial"]
+    },
+    {
+      "id": "8",
+      "name": "Nadia Ali",
+      "email": "nadia@example.com",
+      "phone": "03011234567",
+      "company": "SoftoTech",
+      "tags": ["vip", "active"]
+    },
+    {
+      "id": "9",
+      "name": "Bilal Ahmed",
+      "email": "bilal@example.com",
+      "phone": "03221234567",
+      "company": "Alpha Group",
+      "tags": ["inactive"]
+    },
+    {
+      "id": "10",
+      "name": "Hina Sheikh",
+      "email": "hina@example.com",
+      "phone": "03461234567",
+      "company": "MegaSolutions",
+      "tags": ["active"]
+    }
+  ],
+  "leads": [
+    { "id": "l1", "name": "Jane Smith", "company": "Acme Inc", "stage": "new" },
+    { "id": "l2", "name": "Zara Khan", "company": "InnoTech", "stage": "contacted" },
+    { "id": "l3", "name": "Hamza Ali", "company": "PakSoft", "stage": "proposal" },
+    { "id": "l4", "name": "Emily Stone", "company": "SmartLabs", "stage": "won" },
+    { "id": "l5", "name": "Tariq Jameel", "company": "CodeNest", "stage": "new" },
+    { "id": "l6", "name": "Asma Javed", "company": "Bluewave", "stage": "contacted" },
+    { "id": "l7", "name": "Danish Baig", "company": "DigitAll", "stage": "proposal" },
+    { "id": "l8", "name": "Rabia Noor", "company": "SoftoTech", "stage": "won" },
+    { "id": "l9", "name": "Usman Haider", "company": "Alpha Group", "stage": "new" },
+    { "id": "l10", "name": "Mariam Zahra", "company": "MegaSolutions", "stage": "contacted" }
+  ]
+}

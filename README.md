@@ -1,12 +1,18 @@
-# React + Vite
+🧩 Mini CRM (Client Relationship Manager)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Mini CRM built with React, Zustand, and Vite. It helps manage clients, leads, and tasks visually — perfect for small teams or solo use.
+---
+📁 Features
 
-Currently, two official plugins are available:
+✅ Clients Page  
+  - Search by name or email  
+  - Filter by tags (`vip`, `active`, `inactive`, etc.)  
+  - Expand to view detailed client info
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Leads Kanban Board  
+  - Drag and drop leads across stages: `New`, `Contacted`, `Proposal`, `Won`  
+  - Lead info displayed in draggable cards
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Tasks & Reminders 
+  - Add new tasks linked to clients or leads  
+  - Track due date, status, and notes  
